@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-👋 Baba Web Solutions
+### Baba Web Solutions
 
 ### Full Stack Development • AI • DevOps • Cloud Solutions
 
 
-
 🚀 Baba Web Solutions is a technology-driven development company delivering scalable web applications, AI-powered solutions, and DevOps automation for startups, agencies, and enterprises worldwide.
 
-🏆 30+ Successful Projects
-🏆 7000+ Upwork Hours
+🏆 25+ Successful Projects
+🏆 7k+ Upwork Hours
 🏅 9+ Years of Experience
 🏅 100% Job Success Rate
 
@@ -69,9 +68,9 @@ REST & Third-Party APIs
 Payment Gateways (Stripe, Razorpay, PayPal, etc.)
 
 ### 🔗 Connect With Us
-- 📧 Email: [Email](mailto:admin@babawebolutions.com)
-- 📧 Website: [www.babawebolutions.com](mailto:admin@babawebolutions.com)
-- 💼 LinkedIn: [Baba websolutios](https://www.linkedin.com/in/navjot-singh-137b1797/)
+- 📧 Email: [Email](mailto:admin@babawebsolutions.com)
+- 📧 Website: [www.babawebsolutions.com](https://babawebsolutions.com/)
+- 💼 LinkedIn: [Baba Web Solutions](https://www.linkedin.com/company/105166900/)
 ---
 
 ✨ We’re open to collaborations, outsourcing partnerships, and long-term projects.
